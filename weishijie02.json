@@ -1,0 +1,621 @@
+{
+    "annotation": [
+        {
+            "start": 6.95,
+            "end": 11.75,
+            "data": {
+                "text_level0": "看中国武术 有一种精神",
+                "kana_level0": "Chinese martial arts have an inner spirit.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 13.35,
+            "end": 18,
+            "data": {
+                "text_level0": "很明显不只是一个运动 后面有思想",
+                "kana_level0": "Obviously, it is not only a kind of movement, but also thoughtful.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 23.65,
+            "end": 28.5,
+            "data": {
+                "text_level0": "我的法语名字是Benjamin 变成中文本杰明",
+                "kana_level0": "My French name is Benjamin, translated into Chinese is Ben Jieming.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 31.65,
+            "end": 33.7,
+            "data": {
+                "text_level0": "来中国快5年了",
+                "kana_level0": "I've been in China for almost 5 years.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 33.8,
+            "end": 39.2,
+            "data": {
+                "text_level0": "在北京体育大学 武术与民族传统体育学院 今年刚毕业",
+                "kana_level0": "I graduated from the institute of martial arts and ethnic traditional sports of Beijing Sport University this year.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 40.45,
+            "end": 45.65,
+            "data": {
+                "text_level0": "大一的时候我每天早上6点起床 练那些翻跟头 倒立",
+                "kana_level0": "When I was a freshman, I got up at 6 a.m. every day, to do some tumbling and handstand exercises.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 45.85,
+            "end": 49.85,
+            "data": {
+                "text_level0": "后来我越练越发现我太喜欢运动了",
+                "kana_level0": "The more I practiced, the more I found out that I enjoyed sports so much.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 51.45,
+            "end": 54.45,
+            "data": {
+                "text_level0": "大概从15岁开始对武术有兴趣",
+                "kana_level0": "I've been interested in martial arts since 15.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 56.4,
+            "end": 61.7,
+            "data": {
+                "text_level0": "在国外一说武术 就会想到李小龙和少林和尚",
+                "kana_level0": "When we mentioned martial arts abroad, we will think of Bruce Lee and Shaolin monks.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 62.4,
+            "end": 65.8,
+            "data": {
+                "text_level0": "我第一次接触一个少林和尚 我看他表演",
+                "kana_level0": "The first Shaolin monk I met, I watched his performance.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 65.8,
+            "end": 69.39,
+            "data": {
+                "text_level0": "表演之前就他很自然笑 很放松",
+                "kana_level0": "Before he performed, he smiled naturally and relaxed.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 69.34,
+            "end": 74.94,
+            "data": {
+                "text_level0": "突然变得精神 突然 特别帅",
+                "kana_level0": "Then he became energetic and handsome suddenly.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 77.24,
+            "end": 80.78,
+            "data": {
+                "text_level0": "在法国那些老师 帮我联系北京体育大学",
+                "kana_level0": "In France, some teachers helped me to contact the Beijing Sports University.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 80.77,
+            "end": 82.07,
+            "data": {
+                "text_level0": "就有机会来这儿",
+                "kana_level0": "So I had a chance to come here.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 82.24,
+            "end": 85.34,
+            "data": {
+                "text_level0": "不怎么会说中文  我只会说  吃饭",
+                "kana_level0": "I didn't know how to speak Chinese at that time. I could only say having a meal in Chinese.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 85.79,
+            "end": 88.04,
+            "data": {
+                "text_level0": "学习中文一年  后来上本科",
+                "kana_level0": "After learning Chinese for a year, I began to go to the university.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 88.01,
+            "end": 94.59,
+            "data": {
+                "text_level0": "同学们每次问我怎么说我爱你 法文 然后他们一直说 je t'aime  je t'aime  je t'aime",
+                "kana_level0": "My classmates always ask me how to say I love you in French, They always say that je t'aime  je t'aime  je t'aime.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 94.54,
+            "end": 95.83,
+            "data": {
+                "text_level0": "每次见我就说",
+                "kana_level0": "They will tell me every time when they see me.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 101.94,
+            "end": 106.44,
+            "data": {
+                "text_level0": "我去一个推手交流会碰到了一个老师",
+                "kana_level0": "I met a teacher at an exchange meeting of martial arts.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 106.59,
+            "end": 110.74,
+            "data": {
+                "text_level0": "他叫汝继华临清潭腿门派的传人",
+                "kana_level0": "His name is Ru Jihua, and he was a descendant of the school of Lin Qing Tan leg.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 117.47,
+            "end": 121.37,
+            "data": {
+                "text_level0": "手臂产生支撑 背部产生推",
+                "kana_level0": "The arms support, the back pushes.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 122.24,
+            "end": 126.24,
+            "data": {
+                "text_level0": "在推与挂的瞬间  产生一个力量的攻击",
+                "kana_level0": "By pushing and handing, a force bursts instantly.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 125.94,
+            "end": 128.59,
+            "data": {
+                "text_level0": "我感觉被他完全控制了",
+                "kana_level0": "I felt completely controlled by him.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 128.59,
+            "end": 132.54,
+            "data": {
+                "text_level0": "有的时候我用力 我越用力 他把那个力量还给我",
+                "kana_level0": "Sometimes the harder I tried, the more strongly he fought back.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 132.84,
+            "end": 137.51,
+            "data": {
+                "text_level0": "我所练的这个拳种是  中国武术界史称  ”南拳北腿“",
+                "kana_level0": "The kongfu I practice is known as \"Southern First & Northern Kick\" in Chinese martial arts.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 137.47,
+            "end": 138.77,
+            "data": {
+                "text_level0": "“北腿”的代表",
+                "kana_level0": "The representative of the \"Northern Kick\".",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 140.29,
+            "end": 142.19,
+            "data": {
+                "text_level0": "师父慢点 我疼",
+                "kana_level0": "Slow down, master, it hurts.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 142.96,
+            "end": 149.96,
+            "data": {
+                "text_level0": "这个门派的特点就是腿部的力量 还有爆发力 主要是这两个特点",
+                "kana_level0": "There are two main characteristics of this school, the strength of the legs and the explosive power of fighting.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 150.29,
+            "end": 159.49,
+            "data": {
+                "text_level0": "他给我讲那么多 而且比较深的东西 虽然有很多的时候我听不懂 但是我还是感觉他的那种精神",
+                "kana_level0": "He told me a lot of deep knowledge, I could feel his spirit even though I couldn't understand him a lot.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 159.77,
+            "end": 163.9,
+            "data": {
+                "text_level0": "头有往前往上的趋势",
+                "kana_level0": "Move your head forward and upward.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 165.65,
+            "end": 170.77,
+            "data": {
+                "text_level0": "他当时的汉语水平不是很好 每次学拳讲到理论课的时候都是拿录音笔",
+                "kana_level0": "He was not good at Chinese at that time, so he always took the recording pen in the theory class.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 170.77,
+            "end": 175.03,
+            "data": {
+                "text_level0": "回去以后找他同学 放出来那个录音以后 让他同学来给他解释",
+                "kana_level0": "When he went back, he put out the recording and asked his classmate to explain.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 175.06,
+            "end": 179.7,
+            "data": {
+                "text_level0": "然后他同学听到理论知识以后呢 跟着他一起到这儿来练武",
+                "kana_level0": "After hearing the theoretical knowledge, his classmate followed him to practice together.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 180.93,
+            "end": 186.18,
+            "data": {
+                "text_level0": "当时他只是个大二的学生 看到他的时候 他正跟几个老师在进行武术交流",
+                "kana_level0": "At that time, he was a sophomore, and when I saw him, he was exchanging martial arts experiences with several teachers.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 186.26,
+            "end": 189.42,
+            "data": {
+                "text_level0": "杰明不懂推手的技术 有力不会使",
+                "kana_level0": "Jie Ming didn't understand techniques of pushing hands in martial arts, and he couldn't make good use of it.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 189.52,
+            "end": 191.44,
+            "data": {
+                "text_level0": "打的脸上了 吃了一些亏",
+                "kana_level0": "So he was hit in the face and suffered some losses.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 191.93,
+            "end": 193.72,
+            "data": {
+                "text_level0": "但是打动我的事就是这个",
+                "kana_level0": "But what touched me was that.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 193.77,
+            "end": 195.64,
+            "data": {
+                "text_level0": "他不但没有还手 他连骂都没骂",
+                "kana_level0": "Instead of hitting back, he didn't even scold.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 195.67,
+            "end": 198.67,
+            "data": {
+                "text_level0": "他很自然 哟老师 您这功夫很好",
+                "kana_level0": "He said naturally. \"Teacher, you are good at kung fu.\"",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 198.85,
+            "end": 202.18,
+            "data": {
+                "text_level0": "我就觉得这个孩子品质上非常好",
+                "kana_level0": "I thought this boy was very good.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 202.31,
+            "end": 209.39,
+            "data": {
+                "text_level0": "我这个人比较直 我就有点看不下去了 所以我跟他说 你要是想了解中国武术 可以去找我",
+                "kana_level0": "I was a little bit direct, I couldn't stand it anymore, so I told him that if you wanted to know about Chinese martial arts, you could learn from me.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 209.65,
+            "end": 213.16,
+            "data": {
+                "text_level0": "从那以后到现在一直跟着我们在一起 一直在训练",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 218.06,
+            "end": 220.24,
+            "data": {
+                "text_level0": "我的动作当时还不是很标准",
+                "kana_level0": "At that time, my movements were not standard.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 220.34,
+            "end": 222.98,
+            "data": {
+                "text_level0": "在很简单的动作我放松了",
+                "kana_level0": "I was relaxed in a simple movement.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 222.98,
+            "end": 227.34,
+            "data": {
+                "text_level0": "里面我感觉有东西好像坏了",
+                "kana_level0": "I felt that something inside was broken,",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 227.83,
+            "end": 233.18,
+            "data": {
+                "text_level0": "每天早上我起来 我整个身体疼得不行",
+                "kana_level0": "and so much painful every morning when I got up.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 233.33,
+            "end": 237.83,
+            "data": {
+                "text_level0": "去年12月份的时候去医院检查 我发现很严重",
+                "kana_level0": "When I went to the hospital for examination in December last year, I found that I was injured badly.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 238.23,
+            "end": 241.98,
+            "data": {
+                "text_level0": "通过中医 需要六个月一年的过程",
+                "kana_level0": "It would take 6 months to a year to get treatment through traditional Chinese medicine.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 242.83,
+            "end": 246.48,
+            "data": {
+                "text_level0": "每周我去做一些针灸和手法",
+                "kana_level0": "I do the acupuncture and massage every week now.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 258.43,
+            "end": 263.43,
+            "data": {
+                "text_level0": "针灸真的很厉害",
+                "kana_level0": "The acupuncture is really strong.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 263.68,
+            "end": 273.88,
+            "data": {
+                "text_level0": "我以前我的肩膀也受过伤 那个肌腱 差不多断了",
+                "kana_level0": "I had a tendon injury on my shoulder before, and it was almost broken.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 274.08,
+            "end": 282.73,
+            "data": {
+                "text_level0": "后来我去见他两次 差不多就好很多",
+                "kana_level0": "Then I went to see him twice and almost recovered.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 282.88,
+            "end": 286.73,
+            "data": {
+                "text_level0": "每个东西要是专业练需要花很多时间",
+                "kana_level0": "It takes a lot of time to train professionally.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 286.83,
+            "end": 290.08,
+            "data": {
+                "text_level0": "这六个月都没有以前练得多",
+                "kana_level0": "In these 6 months I haven't practiced as much as before.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 290.58,
+            "end": 291.83,
+            "data": {
+                "text_level0": "一直要坚持",
+                "kana_level0": "I should keep practicing from now on.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 292.08,
+            "end": 301.73,
+            "data": {
+                "text_level0": "以后我想开一个训练馆 不一定要高水平 让人觉得他们也可以做原来想不到能做的动作",
+                "kana_level0": "Later I want to open a training hall, which doesn't have to be professional, just to let people feel that they can also do unexpected movements.",
+                "text_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        }
+    ],
+    "meta": {}
+}
